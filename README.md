@@ -1,16 +1,30 @@
- ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=👋👋👋;👋👋+👋👋;👋+👋;Welcome!)
+ Soy un desarrollador de software junior con enfoque en el desarrollo web, backend y análisis de datos. Me apasiona convertir ideas en soluciones tecnológicas funcionales, escalables y orientadas al usuario.
+En el desarrollo web, trabajo con tecnologías como **Laravel y PHP**, integrando lógica del lado del servidor con bases de datos relacionales como **MySQL y SQL**, para construir aplicaciones robustas. Además, utilizo **HTML**, **JavaScript** y **Java** para dar vida a interfaces dinámicas y eficientes.
+En el área de análisis de datos, he desarrollado habilidades con **Python**, en especial con la librería **Pandas**, para procesar y transformar datos, y utilizo **Power BI** para construir dashboards e informes visuales que apoyan la toma de decisiones estratégicas.
+También he trabajado con **WordPress** en la personalización de sitios web, lo que me permite entregar soluciones funcionales con tiempos de desarrollo reducidos. 
 
- <!----------------------------------------------------------------------------------------------------------------------------------------------------------->
+## 🚀 Tecnologías que manejo
 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bastndev&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+- 🧩 **Lenguajes y frameworks:** Laravel, PHP, Java, JavaScript, HTML, Python
+- 🛠️ **Bases de datos:** MySQL, SQL
+- 📊 **Análisis de datos:** Pandas, Power BI
+- 🌐 **CMS y sitios web:** WordPress
 
- <!------------------------------------------------------------------------------------------------------------------------------------------------------------>
 
- <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bastndev&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Bastian Dev github stats" /> 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=👋👋👋;👋👋+👋👋;👋+👋;Welcome!)
+
+<!----------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=heiderpalmett9202&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=heiderpalmett9202&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Heider Palmett GitHub stats" /> 
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastndev&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
-</div> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heiderpalmett9202&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
+</div>
+
 
  <!------------------------------------------------------------------------------------------------------------------------------------------------------------>
 
@@ -65,6 +79,8 @@ graph TD;
     Back-End-->PHP;
     PHP-->Laravel;
  ```
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------>
+
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" title="HTML"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48" title="CSS">     
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48"  title="Javascript">   
@@ -73,9 +89,34 @@ graph TD;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="48" title="MongoDB">  
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="Vscode">   
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48" title="Github">   
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" width="48" title="Wordpress">  
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" width="48" title="Wordpress"> 
 
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------>
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------>
 
+<table style="width:100%">
+<tr>
+<td>
+<a href="https://www.youtube.com/watch?v=ZZYZ0zEHfPw&t=279s&ab_channel=Marhuire%E2%99%AA">
+<img src="">
+</a>
+</td>
+<td>
+<a href="https://www.youtube.com/watch?v=wtm9ElrhI_A&ab_channel=Marhuire%E2%99%AA">
+<img src="https://images.griddo.universitatcarlemany.com/metodologias-de-desarrollo-de-software-ucma-1">
+</a>
+</td>
+<td>
+<a href="https://www.youtube.com/watch?v=wtm9ElrhI_A&ab_channel=Marhuire%E2%99%AA">
+
+</a>
+</td>
+</tr>
+<tr>
+</table>
+
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------>
 
 
 
